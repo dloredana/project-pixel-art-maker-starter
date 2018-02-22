@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<div class="card">
+		<!-- your favorite animal's name goes here -->
+		<h3 class="title">Ragdoll</h3>
+		<!-- your favorite animal's image goes here -->
+		<img src=http://newsbv.ro/wp-content/uploads/2015/07/pisica-ragdoll-300x200.jpg alt="Ragdoll">
+		<div class="wrap">
+			<!-- your favorite animal's interesting fact goes here -->
+			<p class="fact">The Ragdoll cat is a laid-back, gentle cat which exhibits many dog-like behaviors. They will greet you at the door, follow you around, and sleep with you at night. They can be taught to come when they’re called and play fetch.</p>
+			<ul>
+				<!-- your favorite animal's list items go here -->
+				<li><span>Scientific Name</span>: Felis catus</li>
+				<li><span>Rank</span>: Breed</li>
+				<li><span>Higher Classification</span>: Cat</li>
+				<li><span>Origin</span>: United States of America,California</li>
+			</ul>
+			<!-- your favorite animal's description goes here -->
+			<p>Ragdolls are large, laid-back, semi longhaired cats with captivating blue eyes. The Ragdoll is a pointed breed, which means that the body is lighter in color than the points (the face, legs, tail and ears). The Ragdoll cat is carefully bred to produce large affectionate animals in three patterns, two with white (mitted and bi-color) and one with no white (colorpoint). The ideal Ragdoll is a well balanced cat, with no extreme features. Altered males will usually top the scale at 15-20 pounds; females are proportionately smaller and usually weigh between 10-15 pounds at maturity. Ragdolls are slow-maturing, reaching full coat color at two years, and full size and weight at four.</p>
+		</div>
+	</div>
+</body>
+</html>
